@@ -17,8 +17,8 @@ print(f"secound product: {d}")
 print(f"price of secound product: ${e}")
 print(f"quantity of secound product: {f}")
 print(f"total: {j}")
-print(k)
 
 
-print(f"final bill : {k} ")
+
+print(f"final bill : ${k} ")
 print("-----------------------------------------")
